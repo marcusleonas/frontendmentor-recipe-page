@@ -114,6 +114,10 @@ main {
   padding: 2rem;
 }
 
+.card__title {
+  font-size: 1.25rem;
+}
+
 .card__purple {
   background: var(--color-card-background);
 }
